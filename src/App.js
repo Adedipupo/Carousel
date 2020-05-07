@@ -9,9 +9,13 @@ let styles = {
 
 function App() {
   return(
-  <div>
-    heeloo
-  </div>);
+    <div style={styles}>
+      <Carousel>
+        <div>
+          <img src="https://res.klook.com/image/upload/fl_lossy.progressive,q_65/c_fill,w_480,h_384/cities/jrfyzvgzvhs1iylduuhj.jpg" alt="Hong Kong" />
+          <p className="legend">Hong Kong</p>
+        </div>
+        
 }
 
 
