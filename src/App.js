@@ -7,7 +7,11 @@ let styles = {
   width: '500px'
 };
 
-
+function App() {
+  return(<div>
+    
+  </div>);
+}
 
 
 
