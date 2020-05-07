@@ -4,7 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 let styles = {
   margin: 'auto',
-  width: '1000px'
+  width: '600px'
 };
 
 function App() {
